@@ -64,6 +64,10 @@ button{
     letter-spacing: -1px;
     font-weight: 700;
     cursor: pointer;
+    border: none;
+}
+button:hover{
+    background-color: #444444;
 }
 
 footer{
